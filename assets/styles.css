@@ -5,6 +5,20 @@
   --dark-blue: hsl(223, 47%, 23%)
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  font-family: 'Red Hat Display', sans-serif;
+}
+
 footer { 
   font-size: 11px; 
   text-align: center; 

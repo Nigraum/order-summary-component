@@ -11,6 +11,10 @@
   box-sizing: border-box;
 }
 
+p {
+  font-size: 1rem;
+}
+
 img {
   max-width: 100%;
 }
@@ -37,6 +41,21 @@ body {
   padding: 1.25rem;
   border-radius: 5px;
   box-shadow: 3px 3px 3px hsl(228, 45%, 44%, 0.15);
+}
+
+.btn {
+  border: none;
+  padding: 0.313rem 0.625rem;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.change {
+  background-color: transparent;
+  color: var(--bright-blue);
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 button {

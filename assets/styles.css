@@ -42,9 +42,13 @@ body {
 .container {
   background-color: white;
   margin: 1.25rem;
-  padding: 1.25rem;
   border-radius: 5px;
   box-shadow: 3px 3px 3px hsl(228, 45%, 44%, 0.15);
+  overflow: hidden;
+}
+
+.container img.girl {
+  width: 100%;
 }
 
 h1 {
@@ -57,13 +61,38 @@ h1 {
   border-radius: 10px;
   font-weight: 700;
   font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
 }
 
 .change {
   background-color: transparent;
   color: var(--bright-blue);
   text-decoration: underline;
-  cursor: pointer;
+}
+
+.change:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+.payment {
+  background-color: var(--bright-blue);
+  color: white;
+  padding: 0.625rem;
+}
+
+.payment:hover {
+  opacity: 0.7;
+}
+
+.cancel {
+  background-color: transparent;
+  color: var(--p-color);
+}
+
+.cancel:hover {
+  color: var(--dark-blue);
 }
 
 button {

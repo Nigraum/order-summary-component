@@ -54,12 +54,22 @@ body {
 .container .plan {
   margin: 1.25rem auto;
   padding: 0.625rem;
-  background-color: var(--pale-blue);
+  background-color: var(--very-pale);
   width: 90%;
   border-radius: 5px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+.container .plan article {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .plan article img {
+  margin-right: 0.625rem;
 }
 
 h1 {

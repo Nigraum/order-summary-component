@@ -51,6 +51,17 @@ body {
   width: 100%;
 }
 
+.container .plan {
+  margin: 1.25rem auto;
+  padding: 0.625rem;
+  background-color: var(--pale-blue);
+  width: 90%;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 h1 {
   color: var(--dark-blue);
 }

@@ -2,7 +2,8 @@
   --pale-blue: hsl(225, 100%, 94%);
   --bright-blue: hsl(245, 75%, 52%);
   --very-pale: hsl(225, 100%, 98%);
-  --dark-blue: hsl(223, 47%, 23%)
+  --dark-blue: hsl(223, 47%, 23%);
+  --p-color: hsl(224, 23%, 55%);
 }
 
 * {
@@ -13,6 +14,8 @@
 
 p {
   font-size: 1rem;
+  line-height: 1.6;
+  color: var(--p-color);
 }
 
 img {
@@ -22,6 +25,7 @@ img {
 body {
   font-family: 'Red Hat Display', sans-serif;
   background-color: var(--pale-blue);
+  text-align: center;
 }
 
 .background {
@@ -41,6 +45,10 @@ body {
   padding: 1.25rem;
   border-radius: 5px;
   box-shadow: 3px 3px 3px hsl(228, 45%, 44%, 0.15);
+}
+
+h1 {
+  color: var(--dark-blue);
 }
 
 .btn {

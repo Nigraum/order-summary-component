@@ -2,7 +2,7 @@
 ![desktop-preview](https://user-images.githubusercontent.com/102248990/181608023-c0854c81-70ec-4e8a-8908-fbe867533aba.jpg)
 
 ## Link
-
+https://order-summary-component-nigraum.vercel.app/
 
 ## 💻 Projeto
 

@@ -31,6 +31,14 @@ body {
   z-index: -1;
 }
 
+.container {
+  background-color: white;
+  margin: 1.25rem;
+  padding: 1.25rem;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px hsl(228, 45%, 44%, 0.15);
+}
+
 button {
   font-family: 'Red Hat Display', sans-serif;
 }

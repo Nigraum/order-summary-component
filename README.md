@@ -6,17 +6,17 @@ https://order-summary-component-nigraum.vercel.app/
 
 ## 💻 Projeto
 
-O protótipo desse website foi desenvolvido pela [**FrontEndMentor**](https://www.frontendmentor.io/), [clique aqui](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-Qbd9cVoVWm) para abrir o desafio.
+O protótipo desse website foi desenvolvido pela [**FrontEndMentor**](https://www.frontendmentor.io/), [clique aqui](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0/hub/huddle-landing-page-with-a-single-introductory-section-a99WFQX_Zg) para abrir o desafio.
 
 ## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML](https://html.com/)
-- [CSS](https://www.w3schools.com/css/css_website_layout.asp)
+- [Tailwind](https://tailwindcss.com/)
 
 ## 📝 Conhecimentos abordados
 
-- [x] Uso de variáveis globais no `:root`
+- [x] Uso de variáveis globais na documentação do Tailwind
 - [x] Uso semântico do HTML
-- [x] Responsividade da aplicação com uso da `@media`
+- [x] Responsividade da aplicação com uso do Tailwind

@@ -1,4 +1,7 @@
-# Frontend Mentor - Order summary card
+<div align="center">
+<h1> Frontend Mentor - Order summary card </h1>
+</div>
+
 ![desktop-preview](https://user-images.githubusercontent.com/102248990/181608023-c0854c81-70ec-4e8a-8908-fbe867533aba.jpg)
 
 ## Link
